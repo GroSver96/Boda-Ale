@@ -19,7 +19,8 @@ header {
 .primeraLinea {
   font-size: 45px;
   font-family: "Stalemate";
-  background-image: url('https://github.com/GroSver96/Boda-Ale/blob/main/img/Boda%20AleYMarcelo%20(1).jpeg');
+  background-image: <img src="img/Boda AleYMarcelo (1).jpeg">
+    url('https://github.com/GroSver96/Boda-Ale/blob/main/img/Boda%20AleYMarcelo%20(1).jpeg')
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
