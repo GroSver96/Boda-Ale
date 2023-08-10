@@ -12,14 +12,14 @@ header {
 }
 
 .primeraLineaArriba {
-  font-size: 100px;
+  font-size: 150px;
   font-family: "Stalemate";
 }
 
 .primeraLinea {
-  font-size: 50px;
+  font-size: 70px;
   font-family: "Stalemate";
-  background-image: url('https://github.com/GroSver96/Boda-Ale/blob/main/img/Boda%20AleYMarcelo%20(1).jpeg');
+  background-image: url('https://raw.githubusercontent.com/GroSver96/Boda-Ale/main/img/Boda%20AleYMarcelo%20(1).jpeg');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -36,14 +36,14 @@ header {
 }
 
 .invitacionFondo {
-  font-size: 50px;
+  font-size: 70px;
   font-family: "Stalemate";
 }
 
 .invitacion {
   color: #FFFFFF;
   font-size: 40px;
-  background-image: url('https://github.com/GroSver96/Boda-Ale/blob/main/img/Boda%20AleYMarcelo%20(2).JPG');
+  background-image: url('https://raw.githubusercontent.com/GroSver96/Boda-Ale/main/img/Boda%20AleYMarcelo%20(2).JPG');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -66,7 +66,7 @@ header {
 .itinerario {
   color: #424949;
   font-size: 40px;
-  background-image: url('https://github.com/GroSver96/Boda-Ale/blob/main/img/Boda%20AleYMarcelo%20(3).jpeg');
+  background-image: url('https://raw.githubusercontent.com/GroSver96/Boda-Ale/main/img/Boda%20AleYMarcelo%20(3).jpeg');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
