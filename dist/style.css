@@ -25,6 +25,7 @@ header {
   background-size: cover;
   width: 100%;
   height: 100vh;
+  max-width: 100%;
 }
 
 .primeraLinea .content {
@@ -49,6 +50,7 @@ header {
   background-size: cover;
   width: 100%;
   height: 100vh;
+  max-width: 100%;
 }
 
 .invitacion .content {
@@ -72,6 +74,7 @@ header {
   background-size: cover;
   width: 100%;
   height: 100vh;
+  max-width: 100%;
 }
 
 .itinerarioAbajo {
@@ -94,6 +97,7 @@ header {
   background-size: cover;
   width: 100%;
   height: 100vh;
+  max-width: 100%;
 }
 
 .asistencia .content {
