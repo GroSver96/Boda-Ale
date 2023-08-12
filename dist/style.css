@@ -36,9 +36,28 @@ header {
   height: 100%;
 }
 
+/* Media Query para pantallas pequeñas */
+@media (max-width: 768px) {
+  .primeraLineaArriba {
+    font-size: 3em;
+  }
+  
+  .primeraLinea {
+    font-size: 2em;
+  }
+  
+  .invitacionFondo,
+  .invitacion,
+  .itinerarioArriba,
+  .itinerario,
+  .itinerarioAbajo,
+  .asistencia {
+    font-size: 1.5em;
+  }
+}
+
 .invitacionFondo {
   font-size: 3.125em;
-  font-family: "Stalemate";
 }
 
 .invitacion {
@@ -78,7 +97,7 @@ header {
 }
 
 .itinerarioAbajo {
-  font-size:1.7em;
+  font-size: 1.7em;
 }
 
 .itinerario .content {
