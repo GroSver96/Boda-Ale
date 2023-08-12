@@ -39,7 +39,7 @@ header {
 /* Media Query para pantallas pequeñas */
 @media (max-width: 768px) {
   .primeraLineaArriba {
-    font-size: 3.438em;
+    font-size: 4em;
   }
   
   .primeraLinea {
