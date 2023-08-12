@@ -39,11 +39,11 @@ header {
 /* Media Query para pantallas pequeñas */
 @media (max-width: 768px) {
   .primeraLineaArriba {
-    font-size: 3em;
+    font-size: 2em;
   }
   
   .primeraLinea {
-    font-size: 2em;
+    font-size: 3.438em;
   }
   
   .invitacionFondo,
