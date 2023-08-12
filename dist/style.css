@@ -6,7 +6,7 @@ body {
 }
 
 header {
-  font-size: 1.875em;
+  font-size: 1.75em;
   color: #FFFFFF;
   background-color: #696969;
 }
@@ -43,7 +43,7 @@ header {
 
 .invitacion {
   color: #FFFFFF;
-  font-size: 1.875em;
+  font-size: 1.75em;
   background-image: url('https://raw.githubusercontent.com/GroSver96/Boda-Ale/main/img/Boda%20AleYMarcelo%20(2).JPG');
   background-repeat: no-repeat;
   background-position: center center;
@@ -62,12 +62,12 @@ header {
 }
 
 .itinerarioArriba {
-  font-size: 1.875em;
+  font-size: 1.75em;
 }
 
 .itinerario {
   color: #424949;
-  font-size: 1.875em;
+  font-size: 1.75em;
   background-image: url('https://raw.githubusercontent.com/GroSver96/Boda-Ale/main/img/Boda%20AleYMarcelo%20(3).jpeg');
   background-repeat: no-repeat;
   background-position: center center;
@@ -78,7 +78,7 @@ header {
 }
 
 .itinerarioAbajo {
-  font-size:1.875em;
+  font-size:1.75em;
 }
 
 .itinerario .content {
@@ -90,7 +90,7 @@ header {
 }
 
 .asistencia {
-  font-size: 1.875em;
+  font-size: 1.75em;
   background-image: url('https://raw.githubusercontent.com/GroSver96/Boda-Ale/main/img/Boda%20AleYMarcelo%20(4).jpeg');
   background-repeat: no-repeat;
   background-position: center center;
