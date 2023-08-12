@@ -39,11 +39,11 @@ header {
 /* Media Query para pantallas pequeñas */
 @media (max-width: 768px) {
   .primeraLineaArriba {
-    font-size: 2em;
+    font-size: 3.438em;
   }
   
   .primeraLinea {
-    font-size: 3.438em;
+    font-size: 2.5em;
   }
   
   .invitacionFondo,
@@ -57,7 +57,7 @@ header {
 }
 
 .invitacionFondo {
-  font-size: 3em;
+  font-size: 3.125em;
   font-family: "Stalemate";
 }
 
